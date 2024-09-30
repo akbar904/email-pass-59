@@ -1,4 +1,4 @@
-name: com.example.flutter_modular_app
+name: flutter_modular_app
 description: A simple Flutter application demonstrating the Cubit pattern for state management.
 version: 1.0.0
 
