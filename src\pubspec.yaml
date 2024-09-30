@@ -1,10 +1,10 @@
-name: flutter_modular_app
+name: com.example.flutter_modular_app
 description: A simple Flutter application demonstrating the Cubit pattern for state management.
 version: 1.0.0
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=2.5.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
